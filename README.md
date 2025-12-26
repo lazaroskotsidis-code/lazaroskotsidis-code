@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**lazaroskotsidis-code/lazaroskotsidis-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h3>🌿🌴🐵🌴🌿</h3>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Monkey%20Face.png" alt="Smart Monkey" width="150" />
+  
+  <h1>Welcome to my Jungle!</h1>
+  <h3>Monkey see, Monkey do.</h3>
+  
+  <br />
+  
+  <p><i>Always learning, always building, always evolving.</i></p>
+  
+  ---
+</div>
